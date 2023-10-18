@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-## About :sunglasses:
+## About :sunglasses
 Soy un apasionado desarrollador Full Stack en constante formación. Mi experiencia se centra en tecnologías clave como NodeJS, React, Redux y SQL. He demostrado habilidades en diseño, pruebas e implementación de aplicaciones web, así como en la gestión de proyectos y control de versiones con GIT. Me enorgullece mi sólido entendimiento de estructuras de datos y algoritmos para la eficiencia del código. Soy un colaborador comprometido, empático y entusiasta por seguir creciendo en el mundo del desarrollo web.
 
 ## Technologies :fire:
