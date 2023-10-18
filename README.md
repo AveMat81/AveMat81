@@ -34,18 +34,3 @@ Soy un apasionado desarrollador Full Stack en constante formación. Mi experienc
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/avesani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-avesani/)](https://www.linkedin.com/in/matias-avesani/) [![Gmail Badge](https://img.shields.io/badge/-matiasavesani1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matiasavesani1@gmail.com)](mailto:matiasavesani1@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@matiasave81-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/matiasave81/)](https://www.instagram.com/matiasave81/)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
-</p>
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-
-
