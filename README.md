@@ -1,13 +1,13 @@
- # <a href="https://www.linkedin.com/in/matias-avesani/">Matias Avesani Singh</a> :smiley:
+ # <a href="https://www.linkedin.com/in/matias-avesani/">Matias Avesani </a> :smiley:
  
 <a href="https://linkedin.com/in/matias-avesani/">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Avesani Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/ashwanisng">
-  <img align="left" alt="AveMat81's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/AveMat81">
+  <img align="left" alt="Avesani Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/ashwanisng">
-  <img align="left" alt="matiasave81's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://https://www.instagram.com/matiasave81/">
+  <img align="left" alt="Avesani Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
